@@ -1,4 +1,4 @@
-> Esto sería una cita como la que acabas de ver.
+> Esto sería una cita.
 > 
 > > Dentro de ella puedes anidar otra cita.
 > 
@@ -11,8 +11,12 @@
 | Cell 7    | Cell 8    | Cell 9    |
 
 
-#Linies horizontals
+#Linias horizontales
 ---
 ___
 
 ***
+
+Esto es un **texto en negrita**.
+Esto es un *texto en cursiva*.
+Esto es un ***texto en negrita y cursiva***
